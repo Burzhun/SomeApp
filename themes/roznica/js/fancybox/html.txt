@@ -1,0 +1,3 @@
+<script src="/js/fancybox/script.js"></script>
+	<script src="/js/fancybox/jquery.fancybox.js"></script>
+	  <link href="/js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css" />

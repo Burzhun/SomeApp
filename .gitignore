@@ -1,0 +1,7 @@
+.idea
+images/site
+assets/*
+uploads/*
+protected/runtime/*
+404.txt
+images/wm2.png

@@ -1,0 +1,15 @@
+User-agent: Yandex
+Disallow: /search?
+Disallow: /login
+Disallow: /register
+Disallow: /cart
+Host: www.agra-gold.ru
+
+User-agent: *
+Disallow: /search?
+Disallow: /login
+Disallow: /register
+Disallow: /cart
+Disallow: /catalog/groupItem*
+
+Sitemap: http://www.agra-gold.ru/sitemap.xml

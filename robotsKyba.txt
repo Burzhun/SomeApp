@@ -1,0 +1,15 @@
+User-agent: Yandex
+Disallow: /search?
+Disallow: /login
+Disallow: /register
+Disallow: /cart
+Host: www.kubachinka.ru
+
+User-agent: *
+Disallow: /search?
+Disallow: /login
+Disallow: /register
+Disallow: /cart
+Disallow: /catalog/groupItem*
+
+Sitemap: http://www.kubachinka.ru/sitemap.xml

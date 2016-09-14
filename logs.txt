@@ -1,0 +1,7 @@
+Array
+(
+    [type] => 8
+    [message] => A session had already been started - ignoring session_start()
+    [file] => /home/a/agragold/public_html/yii1114/web/CHttpSession.php
+    [line] => 114
+)
